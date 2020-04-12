@@ -155,6 +155,10 @@
                 },
                 {
                     "type": "file",
+                    "path": "net.blockout.BlockOutII-128.png"
+                },
+                {
+                    "type": "file",
                     "path": "blockout2-Makefile",
                     "dest-filename": "Makefile"
                 }
