@@ -1,7 +1,7 @@
 {
     "app-id": "net.blockout.BlockOutII",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "1.6",
+    "runtime-version": "19.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "blockout",
     "finish-args": [
@@ -19,7 +19,7 @@
         "*.la", "*.a"
     ],
     "modules": [
-        "shared-modules/glu/glu-9.0.0.json",
+        "shared-modules/glu/glu-9.json",
         {
             "name": "SDL",
             "rm-configure": true,
