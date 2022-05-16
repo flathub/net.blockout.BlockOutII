@@ -1,7 +1,7 @@
 {
     "app-id": "net.blockout.BlockOutII",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "19.08",
+    "runtime-version": "21.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "blockout",
     "finish-args": [
