@@ -20,14 +20,8 @@ SentUpstream: 2014-09-17
   </description>
   <url type="homepage">http://www.blockout.net/blockout2/</url>
   <screenshots>
-    <screenshot type="default">
-      <image>http://www.blockout.net/blockout2/screenshots/scr1.jpg</image>
-      <caption><!-- Describe this screenshot in less than ~10 words --></caption>
-    </screenshot>
-    <screenshot>
-      <image>http://www.blockout.net/blockout2/screenshots/scr2.jpg</image>
-      <caption><!-- Describe this screenshot in less than ~10 words --></caption>
-    </screenshot>
+    <screenshot type="default"><image width="512" height="384">http://www.blockout.net/blockout2/screenshots/scr1.jpg</image></screenshot>
+    <screenshot type="default"><image width="512" height="384">http://www.blockout.net/blockout2/screenshots/scr2.jpg</image></screenshot>
   </screenshots>
   <launchable type="desktop-id">net.blockout.BlockOutII.desktop</launchable>
   <provides>
