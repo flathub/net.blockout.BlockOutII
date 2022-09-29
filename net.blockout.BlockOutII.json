@@ -1,7 +1,7 @@
 {
     "app-id": "net.blockout.BlockOutII",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "21.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "blockout",
     "finish-args": [
@@ -54,18 +54,6 @@
                 {
                     "type": "file",
                     "path": "net.blockout.BlockOutII.desktop"
-                },
-                {
-                    "type": "file",
-                    "path": "net.blockout.BlockOutII-16.png"
-                },
-                {
-                    "type": "file",
-                    "path": "net.blockout.BlockOutII-32.png"
-                },
-                {
-                    "type": "file",
-                    "path": "net.blockout.BlockOutII-48.png"
                 },
                 {
                     "type": "file",
